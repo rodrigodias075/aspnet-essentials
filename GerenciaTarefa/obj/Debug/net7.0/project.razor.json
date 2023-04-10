@@ -18650,6 +18650,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\ALUNO\\Desktop\\QUA.315.030\\aspnetessentials\\GerenciaTarefa\\Views\\Tarefa\\index.cshtml",
+      "TargetPath": "Views\\Tarefa\\index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\ALUNO\\Desktop\\QUA.315.030\\aspnetessentials\\GerenciaTarefa\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
